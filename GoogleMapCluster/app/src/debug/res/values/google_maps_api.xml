@@ -1,0 +1,7 @@
+<resources>
+    <!--
+    Get Google map API key by providing your application package name and SHA-1 certificate fingerprint
+    of your machine.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Put your API key</string>
+</resources>
